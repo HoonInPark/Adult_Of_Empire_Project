@@ -1,0 +1,12 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/Assets/AssetStoreTools*
+*.unitypackage
+*.csproj
+*.sln
+*.suo
+*.userprefs
+*.pidb
+*.user
